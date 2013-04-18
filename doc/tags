@@ -1,5 +1,0 @@
-:CopyRTF	copy-as-rtf.txt	/*:CopyRTF*
-copy-as-rtf-settings	copy-as-rtf.txt	/*copy-as-rtf-settings*
-copy-as-rtf.txt	copy-as-rtf.txt	/*copy-as-rtf.txt*
-g:copy_as_rtf_preserve_indent	copy-as-rtf.txt	/*g:copy_as_rtf_preserve_indent*
-g:copy_as_rtf_using_local_buffer	copy-as-rtf.txt	/*g:copy_as_rtf_using_local_buffer*
